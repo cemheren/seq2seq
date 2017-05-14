@@ -1,0 +1,3 @@
+[submodule "seq2seq/recurrentshop"]
+	path = seq2seq/recurrentshop
+	url = https://github.com/datalogai/recurrentshop.git
